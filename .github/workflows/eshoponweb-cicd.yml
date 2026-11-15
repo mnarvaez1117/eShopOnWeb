@@ -10,7 +10,6 @@ env:
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: bc4c3c3f-33d2-4af0-9a42-8c14b91b5ad0
   WEBAPP-NAME: eshoponweb-webapp-mnarvaez
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
